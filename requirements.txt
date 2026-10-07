@@ -1,7 +1,5 @@
 fastapi
 uvicorn
-jinja2
-python-multipart
 pandas
 scikit-learn==1.6.1
 numpy==2.1.3
